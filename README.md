@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Science in Cadiz's University.<br>I'm a scout so I usually don't have any free time.<br>I'm really interested in learning new things
+I'm currently studying Computer Science in Cadiz's University.<br>I'm a scout so I usually don't have any free time.<br>I'm really interested in learning new things.
 
 
 ## 🌐 Socials:
