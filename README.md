@@ -10,9 +10,7 @@ I'm currently studying Computer Science in Cadiz's University.<br>I'm a scout so
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elcarlillo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elcarlillo&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elcarlillo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=elcarlillo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=elcarlillo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
